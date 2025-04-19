@@ -1,6 +1,5 @@
-# Final Project for Econ 294A: Python Laboratory
-## Predicting California Housing Prices with Multivariate Regression and Machine Learning
-
+# Predicting California Housing Prices with Multivariate Regression and Machine Learning
+## Final Project for Econ 294A: Python Laboratory
 ## Project Overview
 This project aims to identify the key determinants of housing prices in California using data from the 1990 Census. The analysis involves various regression techniques to compare their predictive performance. By examining the impact of variables such as location, median income, and proximity to the ocean, this study seeks to provide valuable insights for policymakers, investors, and urban planners, aiding informed decision-making and possibly also help promote sustainable development.
 
